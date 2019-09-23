@@ -1,6 +1,6 @@
 #!/bin/bash
 a=15
 b=17
-if [ "$a" -eq "$b"]
+if [ "$a" -eq "$b"
 then echo "$a равно $b"
 #внесен комментарий
